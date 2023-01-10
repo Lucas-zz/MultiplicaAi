@@ -1,3 +1,9 @@
+## About
+
+Study about Java.
+
+To create a multiplication table, a `Scanner` was used to get the user input and default `System.out.println` to output the results together with the `String.format` method to format the string before printing it to the console.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
