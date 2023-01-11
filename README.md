@@ -1,6 +1,6 @@
 ## About
 
-Study about Java.
+Java studies.
 
 To create a multiplication table, a `Scanner` was used to get the user input and default `System.out.println` to output the results together with the `String.format` method to format the string before printing it to the console.
 
